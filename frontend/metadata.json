@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Modal Edge AI — Document OCR & Invoice Extraction",
+  "description": "AI-powered document understanding at the edge with Vision-Language Models for invoice and receipt extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
